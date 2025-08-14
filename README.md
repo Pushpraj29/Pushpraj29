@@ -52,20 +52,6 @@
 - 🌐 **Portfolio Website** – Fully responsive personal website  
 - 💻 **Full Stack Task Manager** – MERN stack app with authentication and database  
 
----
-
-## 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpraj&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpraj&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpraj&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
