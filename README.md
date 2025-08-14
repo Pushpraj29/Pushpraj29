@@ -1,76 +1,109 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Pushpraj</h1>
-<h3 align="center">🚀 Fresher | B.Tech (IT) Graduate | Data Analyst | Web Developer | Full Stack Developer</h3>
-<h4 align="center">Amity University, Class of 2025</h4>
+<!-- Full-width Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Pushpraj%20&fontSize=60&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20%7C%20Data%20Analyst%20%7C%20Networking%20Wizard&descAlignY=65&descAlign=50" />
+</p>
+
+<!-- Floating 3D Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=0FF7F6&center=true&vCenter=true&width=850&lines=Hey+👋,+I'm+Pushpraj!;B.Tech+(IT)+Graduate+%7C+MERN+%7C+AI+Explorer;Creating+Futuristic+Tech+Solutions+🚀" />
+</p>
+
+<!-- Particle Wave -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
+
+## 🌀 About Me (Animated Version)
+<img align="right" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+- 🎓 **B.Tech in IT** – Amity University (2025)  
+- 💻 Building **Full Stack Apps, AI Models, and Data Dashboards**  
+- 🌐 Skilled in **Networking, SQL, Python, MERN Stack, and Cisco**  
+- 🎯 *Mission:* Blend **design, data & development** into unforgettable experiences  
+- ⚡ Fun Fact: I can turn ☕ + 💡 into production-ready code  
+
+---
+
+<!-- Glowing Skills Section -->
+## 🚀 My Tech Stack  
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=24&center=true&vCenter=true&lines=Data+Analyst;Web+Developer;Full+Stack+Developer;Networking+Enthusiast;Lifelong+Learner;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Developer;📊+Data+Analyst;🤖+AI+%26+Machine+Learning+Enthusiast;🌐+Networking+%26+Cloud+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 **B.Tech in Information Technology** – Amity University (2025)  
-- 💼 **Fresher** exploring **Data Science, Web Development, Full Stack Development & Networking**  
-- 📊 Completed several courses in **Networking, Development & Data Analytics**  
-- 🌱 Currently learning **Advanced Data Analytics, MERN Stack, and Cloud Technologies**  
-- 🎯 Goal: Secure a role where I can **apply my skills to solve real-world problems**  
-
----
-
-## 🛠 Skills & Tools  
-
-### 💻 Programming & Development  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 📊 Data Analytics & Science  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Statistics](https://img.shields.io/badge/-Statistics-FF6F00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Networking & Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 📌 Featured Projects
-- 📊 **Sales Dashboard with Power BI** – Interactive analytics dashboard from sales data  
-- 🐍 **Python Handwriting Recognition** – AI model for dysgraphia assistance  
-- 🌐 **Portfolio Website** – Fully responsive personal website  
-- 💻 **Full Stack Task Manager** – MERN stack app with authentication and database  
-
-
----
-
-## 🐍 Watch My Contribution Snake
+### 🖥️ **Programming & Development**
 <p align="center">
-  <img src="https://github.com/Pushpraj/Pushpraj/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+### 📊 **Data Science & Analytics**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=excel,sqlite,mysql,postgres,pandas,numpy,powerbi" />
 </p>
 
 ---
 
-✨ *"Opportunities don’t happen. You create them."*
+### ⚙️ **Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,windows" />
+</p>
+
+---
+
+<!-- Animated Gradient Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-FF5733?style=for-the-badge&logo=frontend&logoColor=
+
+
+---
+
+<!-- Rotating GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushpraj29&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushpraj29&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pushpraj29&theme=dracula&no-frame=true&margin-w=15&row=1" />
+</p>
+
+---
+
+<!-- Animated Quote -->
+<h2 align="center">💡 Quote to Code By</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFB800&center=true&vCenter=true&width=800&lines=Code+isn't+just+syntax...+it's+magic.;Dream+it,+Code+it,+Ship+it!+🚀" />
+</p>
+
+---
+
+<!-- Glowing Contact Buttons -->
+<h2 align="center">🌎 Connect With Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<!-- Footer Capsule -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
+
 
   
