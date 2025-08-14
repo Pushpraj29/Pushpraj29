@@ -64,16 +64,21 @@
 
 ---
 
-<!-- Rotating GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📈 GitHub Stats & Streaks  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpraj29&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pushpraj29&theme=tokyonight&hide_border=true" height="170" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushpraj29&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165px" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Pushpraj29&theme=tokyonight&hide_border=false" height="165px" />
 </p>
 
+---
+
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushpraj29&theme=dracula&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpraj29&theme=tokyo-night&hide_border=false" />
 </p>
 
 ---
